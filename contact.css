@@ -1,0 +1,92 @@
+body{
+    background-color: #ffe7e9;
+    position: absolute;
+    width: 1700px;
+}
+header{
+    background: hotpink;
+    height: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 50px;
+    letter-spacing: 0.1em;
+    font-size: larger;
+}
+.menu a:hover{
+    color: deeppink;
+    text-decoration: underline;
+}
+.menu li{
+    list-style-type: none;
+    display: inline;
+}
+.menu ul{
+    padding: 15px;
+    margin-left: 18%;
+}
+.phone{
+    display: flex;
+    flex-direction: column;
+}
+.phone p:first-of-type{
+    color: hotpink;
+    font-size: 30px;
+    font-weight: bold;
+}
+.phone p:last-of-type{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+}
+.email p:first-of-type{
+    color: hotpink;
+    font-size: 30px;
+    font-weight: bold;
+}
+.email p:last-of-type{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.social img{
+    width: 80px;
+    height: 70px;
+    padding: 20px;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+.social p{
+    color: hotpink;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 25px;
+}
+.insta{
+    display: flex;
+    flex-direction: row;
+}
+.fb{
+    display: flex;
+    flex-direction: row;
+}
+.social{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.content{
+    margin-left: 25%;
+    display: flex;
+}

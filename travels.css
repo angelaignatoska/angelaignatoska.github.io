@@ -1,0 +1,153 @@
+body{
+    background-color: #ffe7e9;
+    position: absolute;
+    width: 1700px;
+
+}
+header{
+    background: hotpink;
+    height: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 50px;
+    letter-spacing: 0.1em;
+    font-size: larger;
+}
+.menu a:hover{
+    color: deeppink;
+    text-decoration: underline;
+}
+.menu li{
+    list-style-type: none;
+    display: inline;
+}
+.menu ul{
+    padding: 15px;
+    margin-left: 18%;
+}
+.Norway img{
+    height: 400px;
+    width: 280px;
+    padding: 2px;
+}
+.Norway img:hover{
+    width: 300px;
+    height: 420px;
+}
+.Norway{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    background: hotpink;
+    padding: 10px;
+}
+.Norway h3{
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    text-align: center;
+}
+.Norway a{
+    text-decoration: none;
+    color: white;
+}
+.Norway a:hover{
+    color: purple;
+}
+.Greece img{
+    height: 400px;
+    width: 280px;
+    padding: 2px;
+}
+.Greece img:hover{
+    width: 300px;
+    height: 420px;
+}
+.Greece a{
+    text-decoration: none;
+    color: white;
+}
+.Greece a:hover{
+    color: purple;
+}
+.Greece{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    background: hotpink;
+    padding: 10px;
+}
+.Greece h3{
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    text-align: center;
+}
+.Montenegro img{
+     height: 400px;
+     width: 280px;
+     padding: 2px;
+ }
+.Montenegro img:hover{
+    width: 300px;
+    height: 420px;
+}
+.Montenegro a{
+    text-decoration: none;
+    color: white;
+}
+.Montenegro a:hover{
+    color: purple;
+}
+.Montenegro{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    background: hotpink;
+    padding: 10px;
+}
+.Montenegro h3{
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    text-align: center;
+}
+.Croatia img{
+    height: 400px;
+    width: 280px;
+    padding: 2px;
+}
+.Croatia a{
+    text-decoration: none;
+    color: white;
+}
+.Croatia a:hover{
+    color: purple;
+}
+.Croatia img:hover{
+    width: 300px;
+    height: 420px;
+}
+.Croatia{
+    background: url(img/back.jpg);
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    background: hotpink;
+    padding: 10px;
+}
+.Croatia h3{
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    text-align: center;
+}
