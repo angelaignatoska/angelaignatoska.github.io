@@ -42,6 +42,10 @@ header{
     color: white;
     font-weight: bold;
     font-size: 20px;
+    border: 2px hotpink solid;
+    border-radius: 5px;
+    padding: 5px;
+    background: hotpink;
 }
 .email{
     display: flex;
@@ -52,10 +56,14 @@ header{
     font-size: 30px;
     font-weight: bold;
 }
-.email p:last-of-type{
+.email a{
     color: white;
     font-weight: bold;
     font-size: 20px;
+    border: 2px hotpink solid;
+    border-radius: 5px;
+    padding: 5px;
+    background: hotpink;
 }
 .social img{
     width: 80px;
@@ -83,7 +91,7 @@ header{
 .social{
     display: flex;
     flex-direction: column;
-    margin-left: 30%;
+    margin-left: 20%;
     margin-top: 5%;
 }
 .content{
